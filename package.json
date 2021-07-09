@@ -1,5 +1,11 @@
 [
   { "package": "chunked",
     "url": "https://github.com/edwindj/chunked"
+  },
+  { "package": "ffbase",
+    "url": "https://github.com/edwindj/ffbase"
+  },
+  { "package": "cbsodataR",
+    "url": "https://github.com/edwindj/cbsodataR"
   }
 ]
