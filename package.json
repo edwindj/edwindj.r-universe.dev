@@ -2,10 +2,34 @@
   { "package": "chunked",
     "url": "https://github.com/edwindj/chunked"
   },
-  { "package": "ffbase",
-    "url": "https://github.com/edwindj/ffbase"
+  { "package": "whisker",
+    "url": "https://github.com/edwindj/whisker"
+  },
+  { "package": "rvee",
+    "url": "https://github.com/edwindj/rvee"
+  },
+  { "package": "sdcSpatial",
+    "url": "https://github.com/edwindj/sdcSpatial"
+  },
+  { "package": "editrules",
+    "url": "https://github.com/data-cleaning/editrules"
+  },
+  { "package": "errorlocate",
+    "url": "https://github.com/data-cleaning/errorlocate"
+  },
+  { "package": "validatetools",
+    "url": "https://github.com/data-cleaning/validatetools"
+  },
+  { "package": "validatedb",
+    "url": "https://github.com/data-cleaning/validatedb"
+  },
+  { "package": "validatesuggest",
+    "url": "https://github.com/edwindj/validatesuggest"
   },
   { "package": "cbsodataR",
     "url": "https://github.com/edwindj/cbsodataR"
+  },
+    { "package": "ffbase",
+    "url": "https://github.com/edwindj/ffbase"
   }
 ]
