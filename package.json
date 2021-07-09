@@ -23,13 +23,19 @@
   { "package": "validatedb",
     "url": "https://github.com/data-cleaning/validatedb"
   },
+  { "package": "docopt",
+    "url": "https://github.com/docopt/docopt.R"
+  },
   { "package": "validatesuggest",
     "url": "https://github.com/edwindj/validatesuggest"
+  },
+  { "package": "daff",
+    "url": "https://github.com/edwindj/daff"
   },
   { "package": "cbsodataR",
     "url": "https://github.com/edwindj/cbsodataR"
   },
-    { "package": "ffbase",
+  { "package": "ffbase",
     "url": "https://github.com/edwindj/ffbase"
   }
 ]
