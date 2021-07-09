@@ -23,6 +23,15 @@
   { "package": "validatedb",
     "url": "https://github.com/data-cleaning/validatedb"
   },
+  { "package": "dcmodifydb",
+    "url": "https://github.com/data-cleaning/dcmodifydb"
+  },
+  { "package": "dcmodifydt",
+    "url": "https://github.com/data-cleaning/dcmodifydt"
+  },
+  { "package": "nlgeocoder",
+    "url": "https://github.com/uRosConf/nlgeocoder"
+  },
   { "package": "docopt",
     "url": "https://github.com/docopt/docopt.R"
   },
