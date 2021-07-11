@@ -12,7 +12,8 @@
     "url": "https://github.com/edwindj/sdcSpatial"
   },
   { "package": "editrules",
-    "url": "https://github.com/data-cleaning/editrules"
+    "url": "https://github.com/data-cleaning/editrules",
+    "subdir": "pkg"
   },
   { "package": "errorlocate",
     "url": "https://github.com/data-cleaning/errorlocate"
