@@ -44,6 +44,9 @@
   { "package": "cbsodataR",
     "url": "https://github.com/edwindj/cbsodataR"
   },
+  { "package": "cbsodata4",
+    "url": "https://github.com/statistiekcbs/cbsodata4"
+  },
   { "package": "ffbase",
     "url": "https://github.com/edwindj/ffbase"
   }
