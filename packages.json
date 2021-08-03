@@ -44,6 +44,9 @@
   { "package": "cbsodataR",
     "url": "https://github.com/edwindj/cbsodataR"
   },
+  { "package": "scrollytell",
+    "url": "https://github.com/statistiekcbs/scrollytell"
+  },
   { "package": "cbsodata4",
     "url": "https://github.com/statistiekcbs/cbsodata4"
   },
