@@ -52,5 +52,14 @@
   },
   { "package": "ffbase",
     "url": "https://github.com/edwindj/ffbase"
+  },
+  { "package": "qbinplots",
+    "url": "https://github.com/edwindj/qbinplots"
+  },
+  { "package": "xmlwriter",
+    "url": "https://github.com/edwindj/xmlwriter"
+  },
+  { "package": "sdmxdata",
+    "url": "https://github.com/edwindj/sdmxdata"
   }
 ]
