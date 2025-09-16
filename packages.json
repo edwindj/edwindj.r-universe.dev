@@ -61,5 +61,8 @@
   },
   { "package": "sdmxdata",
     "url": "https://github.com/edwindj/sdmxdata"
+  },
+  { "package": "ciTools",
+    "url": "https://github.com/edwindj/ciTools"
   }
 ]
