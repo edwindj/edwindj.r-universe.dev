@@ -12,7 +12,8 @@
     "url": "https://github.com/edwindj/sdcSpatial"
   },
   { "package": "editrules",
-    "url": "https://github.com/data-cleaning/editrules"
+    "url": "https://github.com/data-cleaning/editrules",
+    "subdir": "pkg"
   },
   { "package": "errorlocate",
     "url": "https://github.com/data-cleaning/errorlocate"
@@ -51,7 +52,8 @@
     "url": "https://github.com/statistiekcbs/cbsodata4"
   },
   { "package": "ffbase",
-    "url": "https://github.com/edwindj/ffbase"
+    "url": "https://github.com/edwindj/ffbase",
+    "subdir": "pkg"
   },
   { "package": "qbinplots",
     "url": "https://github.com/edwindj/qbinplots"
